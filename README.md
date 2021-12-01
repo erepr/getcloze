@@ -1,1 +1,1 @@
-# getcloze
+# GetCloze

@@ -18,3 +18,9 @@
 
 - Byte sized lesson with each sentences not having more than 10 words, making it easy to follow and remember.
 
+#### Source code
+
+If you wan to use it locally:  
+
++ `git clone git@github.com:erepr/getcloze.git`
++ Make API live `uvicorn main:app --reload` 

@@ -22,5 +22,6 @@
 
 If you wan to use it locally:  
 
++ Use `Moesif CORs` extension to bypass CORs error.
 + `git clone git@github.com:erepr/getcloze.git`
 + Make API live `uvicorn main:app --reload` 
